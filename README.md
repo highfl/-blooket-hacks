@@ -1,3 +1,4 @@
 # highfl-blooket-hacks
 REAL Hacks that ACTUALLY WORK
-I did not make the GUI!
+
+Note: I did not make the GUI as of now
